@@ -21,12 +21,31 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-6">
-					<p>Content area</p>
+					<p>Content Area 2: Content Harder</p>
 				</div>
 				<div class="col-xs-6">
-					<p>Content area 2: Content harder</p>
+					<p>Content Area 0: The Beginning</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-3">
+					<p>Content 3D</p>
+				</div>
+				<div class="col-xs-3">
+					<p>Content 4: The Son of Content</p>
+				</div>
+				<div class="col-xs-3">
+					<p>Content 5: The Return of the Revenge of the Daughter of the Son of Content</p>
+				</div>
+				<div class="col-xs-3">
+					<p>Content 2000</p>
 				</div>
 			</div>
 		</div>
+		<footer>
+			<div>
+				<p>Footer</p>
+			</div>
+		</footer>
 	</body>
 </html>
